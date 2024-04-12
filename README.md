@@ -3,6 +3,10 @@
 ## Video Demonstration
 https://drive.google.com/drive/u/0/my-drive
 
+## Authors
+- Amin-Wilson Robleh #101248420
+- Mahad Mohamed Yonis #101226808
+
 ## Introduction
 The Health Club Management System is a software solution designed to facilitate the management of a health club, including managing members, trainers, sessions, equipment, and more. This README provides an overview of the main classes in the system.
 
