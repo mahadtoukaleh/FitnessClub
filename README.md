@@ -1,7 +1,7 @@
 # Health Club Management System
 
 ## Video Demonstration
-https://drive.google.com/drive/u/0/my-drive
+https://www.youtube.com/watch?v=EwRs7yvGBlQ
 
 ## Authors
 - Amin-Wilson Robleh #101248420
